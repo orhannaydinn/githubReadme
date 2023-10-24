@@ -124,7 +124,7 @@
 
 ### 
 
-<div align="center"><img src="https://open.spotify.com/playlist/17edX5Pojk0DJ1jbZe3fOZ?si=5237015e4e424d78" /></div>  
+<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=21b6xtgwhwk2e2fynz6xupiny&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=false" /></div>  
 
 <br/>  
 
