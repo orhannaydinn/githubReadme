@@ -124,7 +124,7 @@
 
 ### 
 
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=21b6xtgwhwk2e2fynz6xupiny&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=false" /></div>  
+<div align="center"><img src="[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=igdcw85tuiati0hggry5pd5ii&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://spotify-github-profile.vercel.app/api/view?uid=igdcw85tuiati0hggry5pd5ii&redirect=true)" /></div>  
 
 <br/>  
 
