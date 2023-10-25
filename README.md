@@ -68,11 +68,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="30" width="42" alt="ubuntu logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" width="42" alt="vscode logo"  />
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/arduino.svg" height="30" width="42" alt="arduino logo" />
-  <!-- arduino -->
-  <!-- esp32 -->
-  <!-- stm32 -->
-  <!-- raspery pico -->
-  <!-- pic -->
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@9.19.0/icons/stmicroelectronics.svg" height="30" width="42" alt="arduino logo" />
+
   <!-- c# -->
   <!-- c++ -->
 
